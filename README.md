@@ -1,2 +1,2 @@
 # gitattributes-linguist-exception
-Supporting repo for a short blog post on gitattributes  and linguist exceptions
+Little sample repo to go along with this [blog post](https://obowersa.net/blog/gitattributes-cortex-and-github-language-analysis)
